@@ -1,41 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Michael Kagan
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Michael
+last_name: Kagan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Scientist
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: SLAC National Accelerator Laboratory
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Fundamental Physics
+  - AI for Science
+  - Differentiable Programming
+  - Simulation-Based Inference
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Physics
+      institution: Harvard University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BS in Physics and Mathematics
+      institution: University of Michigan
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +42,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:makagan@slac.stanford.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Michael_A_Kagan
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=KtMij1EAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/makagan
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +70,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Michael Kagan is a Senior Staff Scientist at SLAC National Accelerator Laboratory, which is a U.S. Department of Energy Office of Science Laboratory operated by Stanford University.  His research interests include fundamental physics, artificial intellignce for science, differentiable programming, and simulation-based inference. He leads a research team that is a part of the ATLAS experiment on the Large Hadron Collider at CERN and the MAGIS-100 experiment at Fermilab, and develops new methods in scientific machine learning, differentiable simulation, and computational data analysis.
