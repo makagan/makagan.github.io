@@ -17,20 +17,14 @@ sections:
         
   #       The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
 
-  - block: people
+sections:
+  - block: about.biography
+    id: about
     content:
-      title: Principle Investigator
-      # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      user_groups:
-          - Principal Investigators
-      sort_by: Params.last_name
-      sort_ascending: true
-    design:
-      show_interests: true
-      show_role: true
-      show_social: true
-        
+      title: Biography
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      
   - block: collection
     content:
       title: Latest News
