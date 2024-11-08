@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Michael Kagan is a Senior Staff Scientist at SLAC National Accelerator Laboratory, which is a U.S. Department of Energy Office of Science Laboratory operated by Stanford University.  His research interests include fundamental physics, artificial intellignce for science, differentiable programming, and simulation-based inference. He leads a research team that is a part of the ATLAS experiment on the Large Hadron Collider at CERN and the MAGIS-100 experiment at Fermilab, and develops new methods in scientific machine learning, differentiable simulation, and computational data analysis.
