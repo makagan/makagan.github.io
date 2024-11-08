@@ -4,6 +4,7 @@ type: landing
 
 sections:
   - block: experience
+    id: experience
     content:
       title: Experience
       subtitle: Research Positions
@@ -67,7 +68,8 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-  - block: education
+  - block: experience
+    id: education
     content:
       title: Education
       # Date format for experience
