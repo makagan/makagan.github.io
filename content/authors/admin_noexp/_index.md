@@ -20,20 +20,20 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Fundamental Physics
-  - AI for Science
-  - Differentiable Programming
-  - Simulation-Based Inference
+# interests:
+#   - Fundamental Physics
+#   - AI for Science
+#   - Differentiable Programming
+#   - Simulation-Based Inference
 
-education:
-  courses:
-    - course: PhD in Physics
-      institution: Harvard University
-      year: 2012
-    - course: BS in Physics and Mathematics
-      institution: University of Michigan
-      year: 2006
+# education:
+#   courses:
+#     - course: PhD in Physics
+#       institution: Harvard University
+#       year: 2012
+#     - course: BS in Physics and Mathematics
+#       institution: University of Michigan
+#       year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
