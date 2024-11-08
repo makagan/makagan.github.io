@@ -1,16 +1,10 @@
 ---
-widget: blank
-headless: true
-
-# ... Put Your Section Options Here (title etc.) ...
 title: Teaching
-subtitle:
-weight: 60  # section position on page
-
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+date: 2023-10-24
+hide_date: true
+reading_time: false
 ---
+
 # Course Teaching
 - Guest Lecture **Machine Learning in High Energy Physics**  in UCL course on ML with Big Data, UK (yearly 2019-2024)
 - Guest Lecture **Uncertainty in Machine Learning** in Uni. Geneva course on AI & Physics, Switzerland (2023)
@@ -52,4 +46,18 @@ sections:
     content:
       title: Teaching
       #text:
+--- -->
+
+<!-- ---
+widget: blank
+headless: true
+
+# ... Put Your Section Options Here (title etc.) ...
+title: Teaching
+subtitle:
+weight: 60  # section position on page
+
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
 --- -->
