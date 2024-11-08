@@ -24,7 +24,27 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      
+
+  - block: collection
+    id: research
+    content:
+      title: 'Research'
+      view: card #article-grid
+    design:
+      columns: '1'
+
+  - block: collection
+    id: papers
+    content:
+      title: Recent Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: compact # article-grid
+      #columns: 2
+
   - block: collection
     content:
       title: Latest News
