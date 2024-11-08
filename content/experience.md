@@ -20,7 +20,7 @@ sections:
           company_url: ''
           #company_logo: SLAC_LogoSD
           #location: California
-          date_start: '2024'
+          date_start: 2024
           date_end: ''
           description: Lead a team of students, postdocs, and researcher in fundamental physics and AI for science research.
         - title: Lead Scientist
@@ -28,40 +28,40 @@ sections:
           company_url: ''
           #company_logo: SLAC_LogoSD
           #location: California
-          date_start: '2021'
-          date_end: '2024'
+          date_start: 2021
+          date_end: 2024
           description: Lead a team of students, postdocs, and researcher in fundamental physics and AI for science research.
         - title: Panofsky Fellow
           company: SLAC National Accelerator Laboratory
           company_url: ''
           #company_logo: SLAC_LogoSD
           #location: California
-          date_start: '2016'
-          date_end: '2021'
+          date_start: 2016
+          date_end: 2021
           description: Lead a team of students, postdocs, and researcher in fundamental physics and AI for science research.
         - title: Postdoctoral Research Associate
           company: SLAC National Accelerator Laboratory
           company_url: ''
           #company_logo: SLAC_LogoSD
           #location: California
-          date_start: '2012'
-          date_end: '2016'
+          date_start: 2012
+          date_end: 2016
           description: Postodoctoral researcher in the ATLAS group at SLAC.
         - title: PhD Researcher
           company: Harvard University
           company_url: ''
           #company_logo: Harvard_University_shield
           #location: 
-          date_start: '2006'
-          date_end: '2012'
+          date_start: 2006
+          date_end: 2012
           description: Research in the ATLAS group at Harvard University with supervisor Professor Masahiro Morii.
         - title: Undergraduate Student, Researcher
           company: University of Michigan
           company_url: ''
           #company_logo: org-x
           #location: California
-          date_start: '2001'
-          date_end: '2006'
+          date_start: 2001
+          date_end: 2006
           description: Undergraduate Researcher in the CDF experiment group at the University of Michigan with supervisor Professor Dante Amedei.
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
