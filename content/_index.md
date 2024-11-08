@@ -29,7 +29,7 @@ sections:
     id: research
     content:
       title: Research
-       filters:
+      filters:
         folders:
           - research
     design:
