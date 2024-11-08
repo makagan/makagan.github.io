@@ -62,42 +62,42 @@ sections:
           company_url: ''
           #company_logo: org-x
           #location: California
-          date_start: 2003
+          date_start: 2001
           date_end: 2006
           description: Undergraduate Researcher in the CDF experiment group at the University of Michigan with supervisor Professor Dante Amedei.
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-  - block: experience
-    id: education
-    content:
-      title: Education
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many experience `items` below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: PhD in Physics
-          company: Harvard University
-          company_url: ''
-          #company_logo: Harvard_University_shield
-          #location: 
-          date_start: Sep 2006
-          date_end: June 2012
-          #description: Research in the ATLAS group at Harvard University with supervisor Professor Masahiro Morii.
-        - title: BS in Physics and Mathematics
-          company: University of Michigan
-          company_url: ''
-          #company_logo: org-x
-          #location: California
-          date_start: Sep 2001
-          date_end: June 2006
-          #description: Undergraduate Researcher in the CDF experiment group at the University of Michigan with supervisor Professor Dante Amedei.
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+  # - block: experience
+  #   id: education
+  #   content:
+  #     title: Education
+  #     # Date format for experience
+  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many experience `items` below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: PhD in Physics
+  #         company: Harvard University
+  #         company_url: ''
+  #         #company_logo: Harvard_University_shield
+  #         #location: 
+  #         date_start: Sep 2006
+  #         date_end: June 2012
+  #         #description: Research in the ATLAS group at Harvard University with supervisor Professor Masahiro Morii.
+  #       - title: BS in Physics and Mathematics
+  #         company: University of Michigan
+  #         company_url: ''
+  #         #company_logo: org-x
+  #         #location: California
+  #         date_start: Sep 2001
+  #         date_end: June 2006
+  #         #description: Undergraduate Researcher in the CDF experiment group at the University of Michigan with supervisor Professor Dante Amedei.
+  #   design:
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     columns: '1'
 ---
