@@ -29,8 +29,11 @@ sections:
     id: research
     content:
       title: 'Research'
-      view: card #article-grid
+       filters:
+        folders:
+          - research
     design:
+      view: card #article-grid
       columns: '1'
 
   - block: collection
