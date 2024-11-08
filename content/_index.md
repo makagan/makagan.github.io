@@ -23,7 +23,7 @@ sections:
     content:
       title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: admin_noexp
 
   - block: collection
     id: research
