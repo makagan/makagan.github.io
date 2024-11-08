@@ -17,29 +17,19 @@ sections:
         
   #       The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
 
-  - block: resume-biography-3
+  - block: people
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      # button:
-      #   text: Download CV
-      #   url: uploads/resume.pdf
+      title: Principle Investigator
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+          - Principal Investigators
+      sort_by: Params.last_name
+      sort_ascending: true
     design:
-      # banner:
-      #   filename: atlas_bw.jpg
-      css_class: light
-      background:
-        color: white
-        # image:
-        #   # Add your image background to `assets/media/`.
-        #   filename: atlas_bw.jpg
-        #   filters:
-        #     brightness: 1.0
-        #   size: cover
-        #   position: center
-        #   parallax: false
+      show_interests: false
+      show_role: true
+      show_social: true
         
   - block: collection
     content:
